@@ -4,6 +4,11 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 
 ## [Unreleased]
 
+## [0.3.0] - 2025-01-21
+### Added
+- Clase Vehicle.java
+
+
 ## [0.2.0] - 2025-01-21
 ### Added
 - Fichero CHANGELOG.md
